@@ -24,9 +24,12 @@ A real-time face mask detection web app built with **Streamlit**, **OpenCV**, an
 ## Home 
 <img width="1802" height="763" alt="home" src="https://github.com/user-attachments/assets/f418a73e-7cc2-4a7a-b4af-577b001707d9" />
  
-Upload Image |<img width="1908" height="831" alt="upload" src="https://github.com/user-attachments/assets/e6b62530-9509-4c09-83d4-8c14f2ae9311" />| 
-Webcam Snapshot |<img width="1885" height="857" alt="web" src="https://github.com/user-attachments/assets/0bd1a1b8-450b-4f6c-b53d-34281d3faf8e" /> 
-Live Webcam |<img width="1890" height="855" alt="live" src="https://github.com/user-attachments/assets/3bd030c8-55de-4401-8abb-93624cb4c8fb" /> |
+## Upload Image 
+<img width="1908" height="831" alt="upload" src="https://github.com/user-attachments/assets/e6b62530-9509-4c09-83d4-8c14f2ae9311" />| 
+## Webcam Snapshot 
+<img width="1885" height="857" alt="web" src="https://github.com/user-attachments/assets/0bd1a1b8-450b-4f6c-b53d-34281d3faf8e" /> 
+## Live Webcam 
+<img width="1890" height="855" alt="live" src="https://github.com/user-attachments/assets/3bd030c8-55de-4401-8abb-93624cb4c8fb" /> |
 
 ---
 
@@ -142,7 +145,4 @@ MIT
 ## Author
 
 **Jestin**
-[GitHub](https://github.com/itz-jestin)<img width="1802" height="763" alt="home" src="https://github.com/user-attachments/assets/eb1593d9-4d70-4c40-8c41-218828853121" />
-<img width="1890" height="855" alt="live" src="https://github.com/user-attachments/assets/59f16d41-3717-450d-b1db-48aa27a9b457" />
-<img width="1885" height="857" alt="web" src="https://github.com/user-attachments/assets/d79736d8-e55d-43ba-aed3-83afefefcba4" />
-<img width="1908" height="831" alt="upload" src="https://github.com/user-attachments/assets/c5398e90-21f0-4c64-9a93-df105bf7aa57" />
+
