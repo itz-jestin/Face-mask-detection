@@ -2,9 +2,10 @@
 
 A real-time face mask detection web app built with **Streamlit**, **OpenCV**, and a custom **CNN** trained with TensorFlow/Keras. Detects faces in an uploaded image, webcam snapshot, or live webcam feed, and classifies each as **Mask** or **No Mask** with a confidence score.
 
-<p align="center">
-  <img src="assets/banner.png" alt="App banner" width="800"/>
-</p>
+
+
+
+
 
 ---
 
@@ -20,10 +21,12 @@ A real-time face mask detection web app built with **Streamlit**, **OpenCV**, an
 ---
 
 ## Demo
-
+#home 
+<img width="1802" height="763" alt="home" src="https://github.com/user-attachments/assets/f418a73e-7cc2-4a7a-b4af-577b001707d9" />
 | Upload Image | Webcam Snapshot | Live Webcam |
 |:---:|:---:|:---:|
-| ![Upload demo](assets/demo_upload.png) | ![Snapshot demo](assets/demo_snapshot.png) | ![Live demo](assets/demo_live.png) |
+| <img width="1908" height="831" alt="upload" src="https://github.com/user-attachments/assets/e6b62530-9509-4c09-83d4-8c14f2ae9311" />| 
+<img width="1885" height="857" alt="web" src="https://github.com/user-attachments/assets/0bd1a1b8-450b-4f6c-b53d-34281d3faf8e" /> | <img width="1890" height="855" alt="live" src="https://github.com/user-attachments/assets/3bd030c8-55de-4401-8abb-93624cb4c8fb" /> |
 
 ---
 
