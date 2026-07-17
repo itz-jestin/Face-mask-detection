@@ -26,8 +26,10 @@ A real-time face mask detection web app built with **Streamlit**, **OpenCV**, an
  
 ## Upload Image 
 <img width="1908" height="831" alt="upload" src="https://github.com/user-attachments/assets/e6b62530-9509-4c09-83d4-8c14f2ae9311" />
+
 ## Webcam Snapshot 
 <img width="1885" height="857" alt="web" src="https://github.com/user-attachments/assets/0bd1a1b8-450b-4f6c-b53d-34281d3faf8e" /> 
+
 ## Live Webcam 
 <img width="1890" height="855" alt="live" src="https://github.com/user-attachments/assets/3bd030c8-55de-4401-8abb-93624cb4c8fb" /> 
 
